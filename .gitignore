@@ -1,0 +1,7 @@
+node_modules
+dist
+.vscode
+build_log.txt
+temp_src
+.DS_Store
+*.local
